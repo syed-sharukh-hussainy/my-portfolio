@@ -22,7 +22,7 @@ const Hero = () => {
         <span className="text-primary font-bold">Syed Sharukh Hussainy, </span>{" "}
         a <span className="text-primary font-bold">front-end developer</span>{" "}
         from India. I love creating awesome websites and small software tools.
-        Let's make cool stuff together!
+        Let&apos;s make cool stuff together!
       </p>
       <div className="flex gap-4 mb-7 items-center">
         <Link
