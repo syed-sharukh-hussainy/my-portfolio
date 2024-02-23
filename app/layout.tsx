@@ -3,6 +3,7 @@ import "./globals.css";
 import { Outfit } from "next/font/google";
 import type { Metadata } from "next";
 import Hero from "@/components/hero";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -32,6 +33,7 @@ export default function RootLayout({
             {children}
           </main>
         </ThemeProvider>
+        <SpeedInsights />
       </body>
     </html>
   );
