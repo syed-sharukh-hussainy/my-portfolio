@@ -24,11 +24,23 @@ export const projects = [
     technologies: ["React", "Javascript", "CSS"],
   },
   {
-    label: "TaaYoo SnapShot",
-    description: "Create Screenshot of code with ease",
-    image: "/project-1.jpg",
+    label: "Notesli",
+    description:
+      "Notesli is a place where you can create notes better and faster",
+    image: "/project-3.png",
     href: "/projects",
-    technologies: ["React", "NextJS", "TypeScript", "TailwindCSS", "Amazon S3"],
+    technologies: [
+      "React",
+      "NextJS",
+      "TypeScript",
+      "TailwindCSS",
+      "Convex",
+      "Shadcn",
+    ],
+    about:
+      "Notesli is a place where you can create notes better and faster. Users can able to use AI for writing their notes with more efficient and easy.",
+    website: "https://notesli.vercel.app/",
+    githubLink: "https://github.com/syed-sharukh-hussainy/notesli",
   },
   {
     label: "TaaYoo SnapShot",
