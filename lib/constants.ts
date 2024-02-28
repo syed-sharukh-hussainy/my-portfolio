@@ -21,7 +21,7 @@ export const projects = [
       "Designed and developed a responsive website for Elite Agro Environ Solutions, a company dedicated to providing innovative services and solutions aimed at reducing carbon emissions in agricultural environments.",
     website: "https://eliteaesolutions.com/",
 
-    technologies: ["React", "Javascript", "CSS"],
+    technologies: ["ReactJS", "Javascript", "CSS"],
   },
   {
     label: "Notesli",
@@ -43,11 +43,16 @@ export const projects = [
     githubLink: "https://github.com/syed-sharukh-hussainy/notesli",
   },
   {
-    label: "TaaYoo SnapShot",
-    description: "Create Screenshot of code with ease",
-    image: "/project-1.jpg",
+    label: "Colors Spot - Web extension",
+    description: "The Ultimate Chrome Extension for Color Enthusiasts",
+    image: "/project-4.png",
     href: "/projects",
-    technologies: ["React", "NextJS", "TypeScript", "TailwindCSS", "Amazon S3"],
+    about:
+      "Introducing Colors Spot, the ultimate Chrome extension for color lovers! With Color Spot, you can easily pick colors from any website using the eyedropper tool, and store them in your local storage for future use. Your picked colors will be automatically saved to the 'History' section, where you can easily access and manage them.",
+    website:
+      "https://chromewebstore.google.com/detail/colors-spot/nofapjafadpdnjldphjkpmkcpghkfdmn",
+    githubLink: "https://github.com/syed-sharukh-hussainy/colors-spot",
+    technologies: ["HTML", "CSS", "Javascript"],
   },
   {
     label: "TaaYoo SnapShot",
