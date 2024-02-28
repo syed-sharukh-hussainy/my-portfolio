@@ -14,7 +14,7 @@ const Profile = () => {
       </div>
       <div>
         <h3 className="font-bold text-lg">Syed Sharukh Hussainy</h3>
-        <p className="text-muted-foreground">Front-end Developer</p>
+        <p className="text-muted-foreground">Web Developer</p>
       </div>
     </div>
   );

@@ -54,13 +54,4 @@ export const projects = [
     githubLink: "https://github.com/syed-sharukh-hussainy/colors-spot",
     technologies: ["HTML", "CSS", "Javascript"],
   },
-  {
-    label: "TaaYoo SnapShot",
-    description: "Create Screenshot of code with ease",
-    image: "/project-1.jpg",
-    href: "/projects",
-    about:
-      "Designed and developed a responsive website for Elite Agro Environ Solutions, a company dedicated to providing innovative services and solutions aimed at reducing carbon emissions in agricultural environments.",
-    technologies: ["React", "NextJS", "TypeScript", "TailwindCSS", "Amazon S3"],
-  },
 ];

@@ -20,8 +20,8 @@ const Hero = () => {
       <p className="text-muted-foreground my-10 text-lg text-center md:text-start">
         Hi, I&apos;m{" "}
         <span className="text-primary font-bold">Syed Sharukh Hussainy, </span>{" "}
-        a <span className="text-primary font-bold">front-end developer</span>{" "}
-        from India. I love creating awesome websites and small software tools.
+        a <span className="text-primary font-bold">Web developer</span> from
+        India. I love creating awesome websites and small software tools.
         Let&apos;s make cool stuff together!
       </p>
       <div className="flex gap-4 mb-7 items-center">
